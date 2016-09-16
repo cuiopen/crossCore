@@ -1,0 +1,12 @@
+[submodule "modules/SD3"]
+	path = modules/SD3
+	url = https://github.com/mangos/ScriptDev3
+[submodule "modules/Eluna"]
+	path = modules/Eluna
+	url = https://github.com/elunaluaengine/eluna
+[submodule "realmd"]
+	path = realmd
+	url = https://github.com/mangos/realmd
+[submodule "tools/Extractor_projects"]
+	path = tools/Extractor_projects
+	url = https://github.com/mangos/Extractor_projects.git
